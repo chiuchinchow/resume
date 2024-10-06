@@ -72,6 +72,15 @@ var config = {
         ["./images/h6.jpg", "", "", ""],
     ],
 
+    design_food: [
+        ["./images/h1.jpg", "", "", ""],
+        ["./images/h2.jpg", "", "", ""],
+        ["./images/h3.jpg", "", "", ""],
+        ["./images/h4.jpg", "", "", ""],
+        ["./images/h5.jpg", "", "", ""],
+        ["./images/h6.jpg", "", "", ""],
+    ],
+
 
     /**
      * 这里填写您的工作经历
@@ -143,7 +152,8 @@ var config = {
         "./images/bg.jpg",
         "./images/logo.png",
         "./images/work-bk.jpg",
-        "./images/other_bg.jpg"
+        "./images/other_bg.jpg",
+        "./images/work-bk.jpg",
     ]
 
 }

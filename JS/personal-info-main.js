@@ -33,6 +33,19 @@ $(function () {
             "background-size": "cover",
             "position": "relative !important"
         });
+        $(".design-food-section").css({
+            "background": "url(" + config.url[4] + ") no-repeat center top",
+            "margin-top": "30px",
+            "padding-top": "50px",
+            "text-align": "center !important",
+            "background-attachment": "relative !important",
+            "background-position": "center center !important",
+            "min-height": "800px",
+            "width": "100%",
+            "background-size": "100%",
+            "background-size": "cover",
+            "position": "relative !important"
+        });
         $(".others-section").css("background", "url(" + config.url[3] + ")");
         $(".desc").html(config.skills_description);
         //------E-------
@@ -71,6 +84,34 @@ $(function () {
                 let url = config.portfolio[i][1];
                 let projectName = config.portfolio[i][2];
                 let brief = config.portfolio[i][3];
+                e.append("<div class=\"col-md-4\">\n" +
+                    "    <div class=\"porfolio-image img-raised\" data-aos=\"fade-up\"\n" +
+                    "         data-aos-anchor-placement=\"top-bottom\">\n" +
+                    "        <a href=\"" + url + "\" title=\"点击查看详细信息\">\n" +
+                    "            <figure class=\"portfolio-section-main\">\n" +
+                    "                <img src=\"" + img + "\" alt=\"Image\" />\n" +
+                    "                <figcaption>\n" +
+                    "                    <div class=\"h4\">" + projectName + "</div>\n" +
+                    "                    <p>" + brief + "</p>\n" +
+                    "                </figcaption>\n" +
+                    "            </figure>\n" +
+                    "        </a>\n" +
+                    "    </div>\n" +
+                    "</div>");
+            }
+        }
+
+        if (config.design_food) {
+            for (let i = 0; i < config.design_food.length; i++) {
+                if (i % 3 == 0) {
+                    $(".design-food-section-main-container").append("<div class=\"row\"></div>");
+                    row_i++;
+                }
+                let e = $(".design-food-section-main-container .row").eq(row_i - 1);
+                let img = config.design_food[i][0];
+                let url = config.design_food[i][1];
+                let projectName = config.design_food[i][2];
+                let brief = config.design_food[i][3];
                 e.append("<div class=\"col-md-4\">\n" +
                     "    <div class=\"porfolio-image img-raised\" data-aos=\"fade-up\"\n" +
                     "         data-aos-anchor-placement=\"top-bottom\">\n" +
