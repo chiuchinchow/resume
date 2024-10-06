@@ -2,6 +2,7 @@ var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
     name: "Chou Chin Chow",
     sex: "男",
+    age:'47',
     phone: "(+86)13544930876",
     phone_in_Macau: "(+853) 62110169",
     email: "chiuchow12@gmail.com",
