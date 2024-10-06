@@ -66,7 +66,12 @@ var config = {
         ["./images/p4.jpg", "", "", ""],
         ["./images/p5.jpg", "", "", ""],
         ["./images/p6.jpg", "", "", ""],
-        ["./images/p7.jpg", "", "", ""]
+        ["./images/h1.jpg", "", "", ""],
+        ["./images/h2.jpg", "", "", ""],
+        ["./images/h3.jpg", "", "", ""],
+        ["./images/h4.jpg", "", "", ""],
+        ["./images/h5.jpg", "", "", ""],
+        ["./images/h6.jpg", "", "", ""],
     ],
 
 
@@ -111,10 +116,13 @@ var config = {
      * 建议填写您的校级及以上得奖经历或或其他证书
      */
     others: [
-        ["2021-04-28", "第十二届蓝桥杯大学生A组省三等奖", "大一下学期，我参与第十二届蓝桥杯大学生A组，然比赛一改以往暴力题，半数以上DP，仅取得省级三等奖。"],
-        ["2021-04-24", "第六届团队程序设计天梯赛个人国家三等奖", "大一下学期，我通过面向全年级的选拔，获得入队名额，在个人赛中获得全国三等奖。"],
-        ["2021-04-24", "第六届团队程序设计天梯赛团体国家二等奖", "大一下学期，我通过面向全年级的选拔，获得入队名额，跟随团队取得团体国家二等奖的成绩。"],
-        ["2020-11-14", "2020级南昌大学程序设计正式赛三等奖", "大一上学期，我参与校举办的面向全校程序设计大赛并获得三等奖，"]
+        ["2024-04-24", "Diamond Award", "Won the Wynn Macau Diamond award。"],
+        ["2023-06-16", "Asia's Top 50 Restaurants Awards Ceremony", "Chief person in charge of catering event design for Asia's Top 50 Restaurants Awards Ceremony"],
+        ["2022-07-24", "Culinary Design Competitions", "Led the Wynn Macau team to participate in Culinary Design Competitions and won multiple championships"],
+        ["2021-8-22", "Palace Qingdao Beer Festival", "Wynn Palace Qingdao Beer Festival Event Manager"],
+        ["2018-6-14", "Zhejiang Satellite TV Guest", "Invited to participate in the recording of Zhejiang Satellite TV's <<I heard it tastes delicious>>"],
+        ["2016-9-13", "International and Domestic celebrity chef exchange activities", "Head of international and Domestic celebrity chef exchange activities, Wynn Macau"],
+        ["2014-11-14", "HACCP 2014", "Led the Wynn palace team to obtain HACCP 2014 certification，"]
     ],
 
 
@@ -127,14 +135,7 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["./images/h1.jpg", "", ""],
-        ["./images/h2.jpg", "", ""],
-        ["./images/h3.jpg", "", ""],
-        ["./images/h4.jpg", "", ""],
-        ["./images/h5.jpg", "", ""],
-        ["./images/h6.jpg", "", ""],
-        ["./images/h7.jpg", "", ""],
-        ["./images/h8.jpg", "", ""],
+
     ],
 
 
