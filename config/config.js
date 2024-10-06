@@ -37,11 +37,10 @@ var config = {
     * ["技能点", 掌握程度, "技能条颜色"]
     */
     skills: [
-        ["Menu Creativity and R&D", 80, "red"],
-        ["Team management and training", 77, "blue"],
-        ["SQL", 75, "#1abc9c"],
-        ["Kitchen hygiene and safety standards", 67, "rgba(0,0,0)"],
-        ["Cost Control and Food Utilization", 60, "yellow"]
+        ["Menu Creativity and R&D", 95, "red"],
+        ["Team management and training", 95, "blue"],
+        ["Kitchen hygiene and safety standards", 88, "rgba(0,0,0)"],
+        ["Cost Control and Food Utilization", 90, "yellow"]
     ],
 
 
@@ -61,9 +60,13 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
-        ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
-        ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
+        ["./images/p1.jpg", "", "", ""],
+        ["./images/p2.jpg", "", "", ""],
+        ["./images/p3.jpg", "", "", ""],
+        ["./images/p4.jpg", "", "", ""],
+        ["./images/p5.jpg", "", "", ""],
+        ["./images/p6.jpg", "", "", ""],
+        ["./images/p7.jpg", "", "", ""]
     ],
 
 
@@ -73,20 +76,32 @@ var config = {
      * 你可以内嵌HTML标签以排版格式
      */
     work: [
-        //如果您内有工作经历，您可以采取下列写法
-        // ["————————", "", "<p>暂无工作经历，期待您的联系。</p>"]
-
-        ["2020/7/1 — 2021/8/10", "<br>阎王殿实习生",
-            "<p><strong>阎王殿研发部</strong></p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>"
+        ["Jul 2015 - Jan 2024", "<br>Executive Chef",
+            "<p><strong>Wynn Macau Resort, Macau S.A.R., Macau</strong></p>" +
+            "<p>Responsible for formulating the restaurant menu and constantly innovating dishes according to market demand and seasonal changes to ensure the diversity\n" +
+            "and appeal of the dishes.</p>" +
+            "<p>Manage the kitchen team, including recruiting, training, evaluating and motivating\n" +
+            "staff to improve the overall quality and efficiency of the team.</p>" +
+            "<p>Supervise the procurement and inventory management of ingredients to ensure the freshness and quality of ingredients and control costs.</p>" +
+            "<p>Develop kitchen hygiene and safety standards and strictly implement food hygiene regulations ot ensure food safety.</p>" +
+            "<p>Work with restaurant managers and other departments to develop marketing strategies to increase the restaurant's visibility and reputation.</p>"
         ],
 
-        ["2020/7/1 — 2021/8/10", "<br>阎王殿实习生",
-            "<p><strong>阎王殿研发部</strong></p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>"
-        ]
+        ["Aug 2006 -Jun 2015", "<br>CDP /Sous Chef /Head Chef",
+            "<p><strong>Wynn Macau Resort, Macau S.A.R., Macau</strong></p>" +
+            "<p>Lead the kitchen team to complete daily cooking tasks to ensure the quality and speed of dishes</p>" +
+            "<p>Assist the executive chef in the research and development and innovation of dishes and make reasonable suggestions.</p>" +
+            "<p>Responsible for the maintenance and upkeep of kitchen equipment to ensure normal operation of the equipment.</p>" +
+            "<p>Participate ni restaurant cost control, rationally arrange the use of ingredients and reduce waste.</p>"
+        ],
+
+        ["Jun 2004 - Jun 2006", "<br>Demi Chef - Cafe",
+            "<p><strong>Langham Place Hotel, Mong Kok, Hong Kong, Hong Kong</strong></p>"
+        ],
+
+        ["Jun 1999 - Jun 2004", "<br>Partie Chef",
+            "<p><strong>Grand Stanford Intercontinental Hotel, Hong Kong</strong></p>"
+        ],
     ],
 
 
@@ -112,21 +127,24 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["./svg/LeetCode.svg", "https://leetcode-cn.com/u/happysnaker/", "我的力扣主页"],
-        ["./svg/github.svg", "https://github.com/happysnaker", "我的GitHub主页"],
-        ["./svg/博客.svg", "http://1.15.234.109:8000", "我的个人博客"],
-        ["./svg/掘金.svg", "https://juejin.cn/user/3853167638625000", "我的掘金主页"],
-        ["./svg/知乎.svg", "https://www.zhihu.com/people/tian-xia-you-dao-81", "我的知乎主页"]
+        ["./images/h1.jpg", "", ""],
+        ["./images/h2.jpg", "", ""],
+        ["./images/h3.jpg", "", ""],
+        ["./images/h4.jpg", "", ""],
+        ["./images/h5.jpg", "", ""],
+        ["./images/h6.jpg", "", ""],
+        ["./images/h7.jpg", "", ""],
+        ["./images/h8.jpg", "", ""],
     ],
 
 
     //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
         //背景图、头像、作品展示背景、其他经历背景
-        "./images/intro-bg.jpg",
-        "./images/2.jpg",
-        "./images/work-bk.png",
-        "./images/4.jpg"
+        "./images/bg.jpg",
+        "./images/logo.png",
+        "./images/work-bk.jpg",
+        "./images/other_bg.jpg"
     ]
 
 }
