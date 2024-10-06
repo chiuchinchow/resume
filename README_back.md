@@ -180,7 +180,7 @@ var config = {
         "./images/intro-bg.jpg",
         "./images/2.jpg",
         "./images/work-bk.png",
-        "./images/4.jpg"
+        "./images/bg.jpg"
     ]
 
 }
