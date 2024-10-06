@@ -613,6 +613,10 @@ html {
     color: white;
 }
 
+.portfolio-section .section-title {
+    color: white;
+}
+
 .others-section {
     background: url(https://pic1.zhimg.com/v2-956295fc660aee9127c9ecb4b9b32090_b.jpg);
     background-repeat: no-repeat !important;
