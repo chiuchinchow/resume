@@ -26,7 +26,7 @@ var config = {
     about: "<p>I am an experienced chef with over 20 years of experience in a prestigious Forbes Award five-star hotel in Macau.</p>" +
         "<p>I have solid cooking skills and rich kitchen management experience. Paying attention ot details and pursuing perfection, we are committed to providing diners with delicious, healthy and innovative food experiences.</p>" +
         "<p>In terms of team management, I am good at stimulating employees' potential,\n" +
-        "creating a positive working atmosphere, and leading the team to grow together. I</p>",
+        "creating a positive working atmosphere, and leading the team to grow together. </p>",
 
 
 
