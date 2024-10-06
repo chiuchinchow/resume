@@ -101,6 +101,7 @@ $(function () {
             }
         }
 
+        row_i = 0;
         if (config.design_food) {
             for (let i = 0; i < config.design_food.length; i++) {
                 if (i % 3 == 0) {
