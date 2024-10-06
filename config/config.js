@@ -36,12 +36,11 @@ var config = {
     * ["技能点", 掌握程度, "技能条颜色"]
     */
     skills: [
-        ["Java", 80, "red"],
-        ["GoLang", 77, "blue"],
+        ["Menu Creativity and R&D", 80, "red"],
+        ["Team management and training", 77, "blue"],
         ["SQL", 75, "#1abc9c"],
-        ["HTML5", 67, "rgba(0,0,0)"],
-        ["CSS3", 60, "yellow"],
-        ["JavaScript", 70, "pink"]
+        ["Kitchen hygiene and safety standards", 67, "rgba(0,0,0)"],
+        ["Cost Control and Food Utilization", 60, "yellow"]
     ],
 
 
