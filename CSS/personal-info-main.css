@@ -406,6 +406,12 @@ html {
     margin-bottom: 50px;
 }
 
+.design-food-section .section-title {
+    margin-top: -60px;
+    color: rgba(255, 255, 255, 0.85);
+    margin-bottom: 50px;
+}
+
 .portfolio-section .row {
     bottom: 20px;
     margin-bottom: 20px;
@@ -610,11 +616,6 @@ html {
 }
 
 .others-section .section-title {
-    color: white;
-}
-
-.portfolio-section .section-title {
-    margin-top: 10px;
     color: white;
 }
 
