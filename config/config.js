@@ -148,7 +148,7 @@ var config = {
         "./images/logo.jpg",
         "./images/work-bk.jpg",
         "./images/other_bg.jpg",
-        "./images/food-bg.jpg",
+        "./images/bg.jpg",
     ]
 
 }
