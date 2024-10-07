@@ -1,6 +1,6 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "Chou Chin Chow",
+    name: "Chiu Chin Chow",
     sex: "Male",
     age:'47',
     phone: "(+86)13544930876 (+853) 62110169",
@@ -82,7 +82,7 @@ var config = {
      * 你可以内嵌HTML标签以排版格式
      */
     work: [
-        ["Jul 2015 - Jan 2024", "<br>Executive Chef",
+        ["Jul 2015 - Jan 2024", "<br>Executive Sous Chef",
             "<p><strong>Wynn Macau Resort, Macau S.A.R., Macau</strong></p>" +
             "<p>Responsible for formulating the restaurant menu and constantly innovating dishes according to market demand and seasonal changes to ensure the diversity\n" +
             "and appeal of the dishes.</p>" +
