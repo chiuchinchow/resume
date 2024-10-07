@@ -136,8 +136,8 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["./svg/linkin.png", "https://www.linkedin.com/in/chiu-chow-010a9788/", "linkin"],
-        ["./svg/wechat.jpg", "", "wechat"],
+        ["./svg/linkin.png", "https://www.linkedin.com/in/chiu-chow-010a9788/", "click to connect me with Linkin"],
+        ["./svg/wechat.jpg", "", "Scan with Wechat to contact me."],
     ],
 
 
