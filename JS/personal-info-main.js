@@ -194,7 +194,7 @@ $(function () {
                 let desc = config.icon[i][2];
                 $(".icon-insert").append(
                     "<a class=\"my-tooltip\" href=\"" + url + "\" title=\"访问我的社交平台\">\n" +
-                    "    <img src=\"" + img + "\" alt=\"\">\n" +
+                    "    <img src=\"" + img + "\" alt=\"\" height='100' width='100'>\n" +
                     "    <span class=\"my-tooltiptext\">" + desc + "</span>\n" +
                     "</a>"
                 );
