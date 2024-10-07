@@ -67,14 +67,14 @@ var config = {
     ],
 
     design_food: [
-        ["./images/h1.jpg", "", "", ""],
+        ["./images/h1.png", "", "", ""],
         ["./images/h2.jpg", "", "", ""],
         ["./images/h3.jpg", "", "", ""],
         ["./images/h4.jpg", "", "", ""],
         ["./images/h5.jpg", "", "", ""],
         ["./images/h6.jpg", "", "", ""],
-        ["./images/h7.jpg", "", "", ""],
-        ["./images/h8.jpg", "", "", ""],
+        ["./images/h7.png", "", "", ""],
+        ["./images/h8.png", "", "", ""],
         ["./images/h9.jpg", "", "", ""],
     ],
 
