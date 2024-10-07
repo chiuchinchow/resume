@@ -73,6 +73,9 @@ var config = {
         ["./images/h4.jpg", "", "", ""],
         ["./images/h5.jpg", "", "", ""],
         ["./images/h6.jpg", "", "", ""],
+        ["./images/h7.jpg", "", "", ""],
+        ["./images/h8.jpg", "", "", ""],
+        ["./images/h9.jpg", "", "", ""],
     ],
 
 
