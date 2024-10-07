@@ -72,10 +72,10 @@ var config = {
         ["./images/h3.jpg", "", "", ""],
         ["./images/h4.jpg", "", "", ""],
         ["./images/h5.jpg", "", "", ""],
-        ["./images/h6.jpg", "", "", ""],
+        ["./images/h6.png", "", "", ""],
         ["./images/h7.png", "", "", ""],
         ["./images/h8.png", "", "", ""],
-        ["./images/h9.jpg", "", "", ""],
+        ["./images/h9.png", "", "", ""],
     ],
 
 
