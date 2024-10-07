@@ -137,7 +137,7 @@ var config = {
      */
     icon: [
         ["./svg/linkin.png", "https://www.linkedin.com/in/chiu-chow-010a9788/", "linkin"],
-        ["./svg/wechat.jpeg", "", "wechat"],
+        ["./svg/wechat.jpg", "", "wechat"],
     ],
 
 
